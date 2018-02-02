@@ -1,5 +1,7 @@
 /** Filename: styles.css **/
-
+p {
+	font-family: 'Lobster', cursive;
+}
 .the-para-one {
 	font-weight: 700;
 
